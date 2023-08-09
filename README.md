@@ -750,13 +750,13 @@ contact.html
 ```
 
 ## OUTPUT:
-![OUTPUT](./h1.jpg)
-![OUTPUT](./p1.jpg)
-![OUTPUT](./p2.jpg)
-![OUTPUT](./c1.jpg)
+![output](./h1.jpg)
+![output](./p1.jpg)
+![output](./p2.jpg)
+![output](./c1.jpg)
 
 ## HTML VALIDATOR:
-![OUTPUT](./htmlvalid.jpg)
+![output](./htmlvalid.jpg)
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
